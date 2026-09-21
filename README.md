@@ -1,5 +1,7 @@
 # 🏀 NBA Shot Zone & FG Analysis (2004–2025)
 
+**Author:** Thu Thao Huynh
+
 **Tools:** SQL Server (SSMS) + Tableau
 
 ---
